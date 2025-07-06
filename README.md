@@ -32,17 +32,17 @@ To demonstrate how a VPN (Virtual Private Network) enhances online privacy and s
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Step                             | Screenshot File Name                   |
 |----------------------------------|----------------------------------------|
-| VPN Disconnected (India IP)      | `Screenshot 2025-07-06 112527.png`     |
-| VPN Connected (Japan server)     | `Screenshot 2025-07-06 113248.png`     |
-| IP Check (New IP: Japan)         | `Screenshot 2025-07-06 113743.png`     |
+| VPN Disconnected (India IP)      | `1_before_connected.png`               |
+| VPN Connected (Japan server)     | `2_after_connected.png`                |
+| IP Check (New IP: Japan)         | `3_ip.png`                             |
 
 ---
 
-## 🔐 What I Learned
+##  What I Learned
 
 - A VPN encrypts all traffic between my device and the VPN server.
 - My **real IP address is hidden**, and websites only see the VPN's IP.
@@ -51,18 +51,18 @@ To demonstrate how a VPN (Virtual Private Network) enhances online privacy and s
 
 ---
 
-## 🔒 VPN Benefits vs Limitations
+##  VPN Benefits vs Limitations
 
-| ✅ Benefits                       | ⚠️ Limitations                        |
+|  Benefits                        | Limitations                          |
 |----------------------------------|--------------------------------------|
 | Hides real IP                    | Slower than normal connection        |
 | Encrypts web traffic             | Limited server options on free plan  |
-| Protects privacy on public Wi-Fi| Not a full anonymity tool            |
-| Blocks trackers and ads         | May not work with all streaming sites|
+| Protects privacy on public Wi-Fi | Not a full anonymity tool            |
+| Blocks trackers and ads          | May not work with all streaming sites|
 
 ---
 
-## 🧠 Key Concepts Covered
+##  Key Concepts Covered
 
 - VPN
 - Encrypted tunnel
